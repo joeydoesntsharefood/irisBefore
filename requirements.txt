@@ -1,0 +1,13 @@
+requests
+websockets==11.0.3
+google==3.0.0
+google-api-core==2.11.1
+google-api-python-client==2.97.0
+google-auth==2.22.0
+google-auth-httplib2==0.1.0
+google-auth-oauthlib==1.0.0
+google-pasta==0.2.0
+googleAPI==0.1.0
+googleapis-common-protos==1.60.0
+pip==22.0.2
+tqdm==4.66.1
